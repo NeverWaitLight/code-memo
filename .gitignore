@@ -1,6 +1,7 @@
-.vscode
+.vscode/
 target/
 out/
 node_modules/
-.specstory
+.specstory/
 .cursorindexingignore
+__pycache__/
