@@ -1,3 +1,9 @@
+## Celery 是什么?
+
+Celery 不是替换 MQ，而是构建在 MQ 之上的简化层。如果你讨厌重复造轮子，用 Celery；如果需要极致控制，用直接 MQ。
+
+## Step-by-Step
+
 使用 docker 启动 redis
 
 ```sh
