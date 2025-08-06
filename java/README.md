@@ -10,3 +10,4 @@
 - webflux-demo: Spring WebFlux 响应式编程示例
 - simple-demo: 简单示例项目
 - proxy-demo: 代理模式相关示例
+- [xxl-job-demo](./xxl-job-demo/README.md): 分布式任务调度框架 xxl-job demo 
